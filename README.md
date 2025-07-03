@@ -28,7 +28,7 @@ Users can easily create, view, edit, and delete products — all with real-time 
 
 ## 📸 Screenshots
 
-| ![Home](./ProductStore.png) 
+ ![Home](./ProductStore.png) 
 
 ---
 
