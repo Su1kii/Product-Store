@@ -27,20 +27,28 @@ A modern full-stack CRUD application built using the MERN stack (MongoDB, Expres
 
 ---
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
+Frontend
 
-**Frontend**
+⚛️ React (with Vite)
 
-- React
-- Chakra UI
-- Zustand
-- React Router DOM
+🎨 Chakra UI
 
-**Backend**
+📦 Zustand (state management)
 
-- Node.js
-- Express
-- MongoDB (Mongoose)
+🌐 React Router DOM
+
+Build Tool
+
+⚡ Vite
+
+Backend
+
+🟢 Node.js
+
+🚂 Express
+
+🍃 MongoDB (Mongoose)
 
 ---
 
