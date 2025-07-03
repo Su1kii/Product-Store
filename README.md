@@ -21,16 +21,14 @@ Users can easily create, view, edit, and delete products — all with real-time 
 
 ## 🖼 Live Demo
 
-> [🔗 View Live Site](https://your-live-site-link.com)  
-> _Replace this with your actual deployed URL (e.g. Vercel, Netlify)_
+> [🔗 View Live Site](https://your-live-site-link.com) Not public as of right now! 
+> 
 
 ---
 
 ## 📸 Screenshots
 
-| Home Page                       | Create Page                         | Product Modal                     |
-| ------------------------------- | ----------------------------------- | --------------------------------- |
-| ![Home](./screenshots/home.png) | ![Create](./screenshots/create.png) | ![Modal](./screenshots/modal.png) |
+| ![Home](./ProductStore.png) 
 
 ---
 
